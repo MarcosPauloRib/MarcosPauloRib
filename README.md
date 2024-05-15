@@ -14,7 +14,7 @@
 <tr>
 <td><a href="https://github.com/MarcosPauloRib" target="_blank"><img src="https://github.com/MarcosPauloRib/MarcosPauloRib/blob/main/img/github4.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://replit.com/@MarcosPauloRib"><img src="https://github.com/MarcosPauloRib" width="50px" height="50px"/></a>
+<td><a href="https://replit.com/@MarcosPauloRib"><img src="https://github.com/MarcosPauloRib/MarcosPauloRib/blob/main/img/replit2.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:marcospaulorib.dev@hotmail.com" target="_blank"><img src="https://github.com/MarcosPauloRib/MarcosPauloRib/blob/main/img/gmail2.png" width="50px" height="50px"/></a>
 </td>
