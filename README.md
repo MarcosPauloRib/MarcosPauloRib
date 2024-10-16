@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Marcos</code>, tenho 22 anos, moro em BH e sou estudante de Desenvolvimento de sistemas, atualmente estudando HTML. Comecei a ter interesse na área de programação desde criança. Na época queria criar um servidor de SA-MP, então comecei a pesquisar sobre e descobri a linguagem PAWN que me fez amar programação. Tenho o objetivo inicial de estagiar na área afim de expandir meus conhecimentos principalmente em backend.</i> 👨‍🎓<br />
+<i><b>Olá</b> :wave:, sou o <code>Marcos</code>, tenho 22 anos, moro em BH e sou estudante de Desenvolvimento de Sistemas, atualmente estudando React. Comecei a ter interesse na área de programação desde criança. Na época queria criar um servidor de SA-MP, então comecei a pesquisar sobre e descobri a linguagem PAWN que me fez amar programação. Tenho o objetivo inicial de estagiar na área afim de expandir meus conhecimentos principalmente em backend.</i> 👨‍🎓<br />
 </div>
 
 <!--
@@ -104,7 +104,7 @@
 <a href="https://www.last.fm/pt/user/MarcosPauloRib" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=MarcosPauloRib&width=400"/></a>
 </div>
 <div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=z2rheuakcem66y20eg0l6ql4k&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=z2rheuakcem66y20eg0l6ql4k&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=z2rheuakcem66y20eg0l6ql4k&count=10"/>
 </div>
 <!--<div>
