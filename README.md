@@ -18,8 +18,8 @@
 </td>
 <td><a href="mailto:marcospaulorib.dev@hotmail.com" target="_blank"><img src="https://github.com/MarcosPauloRib/MarcosPauloRib/blob/main/img/gmail2.png" width="50px" height="50px"/></a>
 </td>
-<!--<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/MarcosPauloRib" width="50px" height="50px"/></a>
-</td>-->
+<td><a href="https://wa.me/5531997482513" target="_blank"><img src="https://github.com/MarcosPauloRib" width="50px" height="50px"/></a>
+</td>
 <!--<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/MarcosPauloRib" width="50px" height="50px"/></a>
 </td>-->
 <td><a href="https://www.linkedin.com/in/marcospaulo-r/" target="_blank"><img src="https://github.com/MarcosPauloRib/MarcosPauloRib/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
