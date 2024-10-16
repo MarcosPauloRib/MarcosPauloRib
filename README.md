@@ -20,8 +20,8 @@
 </td>
 <td><a href="https://wa.me/5531997482513" target="_blank"><img src="https://github.com/MarcosPauloRib/MarcosPauloRib/blob/main/img/wpp.png" width="50px" height="50px"/></a>
 </td>
-<!--<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/MarcosPauloRib" width="50px" height="50px"/></a>
-</td>-->
+<td><a href="https://www.instagram.com/marcospaulo_rib/" target="_blank"><img src="https://github.com/MarcosPauloRib/MarcosPauloRib/blob/main/img/insta.png" width="50px" height="50px"/></a>
+</td>
 <td><a href="https://www.linkedin.com/in/marcospaulo-r/" target="_blank"><img src="https://github.com/MarcosPauloRib/MarcosPauloRib/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
 </td>
 <!--<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/MarcosPauloRib" width="50px" height="50px"/></a>
