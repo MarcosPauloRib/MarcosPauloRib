@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Marcos</code>, tenho 22 anos, moro em BH e sou estudante de Desenvolvimento de Sistemas, atualmente estudando React. Comecei a ter interesse na área de programação desde criança. Na época queria criar um servidor de SA-MP, então comecei a pesquisar sobre e descobri a linguagem PAWN que me fez amar programação. Tenho o objetivo inicial de estagiar na área afim de expandir meus conhecimentos principalmente em backend.</i> 👨‍🎓<br />
+<i><b>Olá</b> :wave:, sou o <code>Marcos</code>, tenho 22 anos, moro em BH e sou estudante de Desenvolvimento de Sistemas, atualmente estudando React Native. Comecei a ter interesse na área de programação desde criança. Na época queria criar um servidor de SA-MP, então comecei a pesquisar sobre e descobri a linguagem PAWN que me fez amar programação. Tenho o objetivo inicial de estagiar na área afim de expandir meus conhecimentos principalmente em backend.</i> 👨‍🎓<br />
 </div>
 
 <!--
